@@ -8,3 +8,8 @@
 	url = https://github.com/weiliu123/pclassoreg
 	shallow = true
 	registered = true
+[submodule "RLassoCox"]
+	path = RLassoCox
+	url = https://github.com/weiliu123/rlassocox
+	shallow = true
+	registered = true
