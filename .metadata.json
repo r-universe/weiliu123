@@ -2,8 +2,5 @@
   {
     "package": "PCLassoReg",
     "oncran": true
-  },
-  {
-    "package": "RLassoCox"
   }
 ]
