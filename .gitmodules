@@ -5,6 +5,3 @@
 [submodule "PCLassoReg"]
 	path = PCLassoReg
 	url = https://github.com/weiliu123/pclassoreg
-[submodule "RLassoCox"]
-	path = RLassoCox
-	url = https://github.com/weiliu123/rlassocox
